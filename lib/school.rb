@@ -34,7 +34,7 @@ end
        else
         new_hash[k] = v.sort
        end
-       binding.pry
+       
     
     end
     new_hash
